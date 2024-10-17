@@ -1,0 +1,5 @@
+print("Sohib Khan")
+print("Sharavan ")
+print("Amar mishra")
+prnt("samarth" )
+print("Divya")

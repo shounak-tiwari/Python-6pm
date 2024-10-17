@@ -1,0 +1,24 @@
+-> compiler v/s interpreter 
+-> idle v/s ide 
+-> identifiers 
+-> objects or refrences in python 
+
+concept of compiler : 
+	compiler is use for compile and execute our codes it is execute and compile code when
+ no error found in a source code 
+				it compile and execute whole code not line by line 
+
+interpreter  : 
+	excute line of code until error become came 
+
+
+ide : code editor (intigrated development envirnment )
+	vscode 
+	PYCHARM 
+	jupiter
+	anaconda
+	replet
+	git
+idle : intifrated development of learning environment 
+	
+		python idle 13.0.0
