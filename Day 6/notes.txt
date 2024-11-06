@@ -1,0 +1,48 @@
+concept 1: Typecasting
+---------------------------------------------------------------------------------------
+implicit typecasting : 
+source code:
+x = 10
+print(type(x))
+x = 10.50
+print(type(x))
+x = "Universal informatics"
+print(type(x))
+x = 10
+print(type(x))
+
+---------------------------------------------------------------------------------------
+explicit type casting :
+source code : 
+x =input("Enter the value : ")
+print("default type of x : ",type(x))
+x = int(x)
+print("after type casting in int format : the type of x : ",type(x))
+
+output: 
+C:\Users\akash\Desktop\Python 6pm\Day 6>py type3.py
+Enter the value : 1234
+default type of x :  <class 'str'>
+after type casting in int format : the type of x :  <class 'int'>
+
+
+---------------------------------------------------------------------------------------
+computable is means where reverse type casting are support 
+--------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
