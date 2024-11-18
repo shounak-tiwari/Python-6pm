@@ -1,0 +1,1 @@
+while loops : loops is a based on condition if condition is true then loop will execute 
