@@ -1,0 +1,10 @@
+Write a program to print the current date and time.
+Write a program to print the current year, month, and day separately.
+Print the current time in the format HH:MM:SS.
+Write a program to display today’s date using datetime.date.
+Convert a string 2024-11-27 into a datetime object.
+Write a program to find the day of the week for a given date.
+Write a program to calculate the number of days until your next birthday.
+Display the current time in the 12-hour clock format with AM/PM.
+Write a program to add 7 days to the current date.
+Subtract 30 days from today’s date.
