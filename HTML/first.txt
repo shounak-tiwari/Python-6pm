@@ -1,0 +1,8 @@
+basic syntax /structure 
+<html>
+	<head>
+	</head>
+	
+	<body>
+	</body>
+</html>

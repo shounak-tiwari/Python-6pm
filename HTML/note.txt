@@ -1,0 +1,15 @@
+markup language 
+web pages 
+	1. static web page
+		where content of web page can not get changes 
+		
+			1. portfolio 
+	2. dynamic web page
+		where content of web page can change get changes 
+			1. instragram 
+				1. Aman
+				2. shar
+				3. harshal
+				4. abhishek
+				
+				basic syntax follow 
