@@ -1,0 +1,26 @@
+class Car:
+	def InputDetails(temp):
+		temp.name = input('enter the name of car : ')
+		temp.model_number = input('enter the model number : ')
+		temp.color = input('enter color of car : ')
+		temp.seat = input('enter seat : ')
+	def DisplayDetails(temp):
+		print('name of car : ',temp.name)
+		print('model number of car : ',temp.model_number)
+		print('color of car : ',temp.color)
+		print('seat capacity of car : ',temp.seat)
+		
+x,y,z,a,b,c = Car(),Car(),Car(),Car(),Car(),Car()
+x.InputDetails()
+print('\n object calling again \n')
+y.InputDetails()
+print('\n object calling again \n')
+z.InputDetails()
+print('\n object calling again \n')
+a.InputDetails()
+print('\n object calling again \n')
+b.InputDetails()
+print('\n object calling again \n')
+c.InputDetails()
+print('\n object Display of z calling again \n')
+z.DisplayDetails()
